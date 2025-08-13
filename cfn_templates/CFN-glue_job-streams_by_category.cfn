@@ -35,6 +35,6 @@ Resources:
         Name: glueetl
         ScriptLocation: !Ref ScriptLocation
       WorkerType: G.1X
-      NumberOfWorkers: 3
+      NumberOfWorkers: 2
       GlueVersion: "3.0"
       Name: Streaming Views by Category
