@@ -58,6 +58,7 @@ s3output = glueContext.getSink(
 # Test - Modifed 4!!!
 # Test - Modifed 5!!!
 # Test - Modifed 6!!!
+# Test - Modifed 7!!!
 # Set the database and table name for where you want this table
 # to be registered in the Glue catalog
 s3output.setCatalogInfo(
